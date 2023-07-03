@@ -1,2 +1,1 @@
-# Practicum_ANA_515P
-ANA_515P_01 Exp Practicum Fundamentals
+As Per the instructions given in the practicum, I have performed the data processing on the given Raw data by loading and reading the data from the file and combining both sheets by changing the data type of the timestamp as it was not merging because the timestamp in both sheets has two different data types, later I have filtered unwanted data, renamed the columns to understand quickly and removed duplicates and handled missing values and mentioned the outliers to get accurate results. Finally, I have visualized and exported the processed data to a new file.
